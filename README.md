@@ -39,6 +39,7 @@
 
 ---
 
+### 🎥 Social Media:
 <div align="center">
   <a href="https://x.com/syncxw" target="_blank"><img src="https://img.shields.io/badge/-Twitter-0f0f0f?style=for-the-badge&logo=twitter&logoColor=ffffff" /></a>  
   <a href="https://discord.com/users/1291063864125034561" target="_blank"><img src="https://img.shields.io/badge/-Discord-0f0f0f?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>
