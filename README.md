@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+GITHUB!;My+Name+is+Sync;I+am+a+Developer)](https://git.io/typing-svg)
 
@@ -45,4 +45,4 @@
   <a href="https://www.youtube.com/@syncxyzz" target="_blank"><img src="https://img.shields.io/badge/-YouTube-0f0f0f?style=for-the-badge&logo=youtube&logoColor=ffffff" /></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
